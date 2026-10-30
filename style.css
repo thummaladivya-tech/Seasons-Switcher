@@ -1,0 +1,70 @@
+.seasons_image{
+    width: 35vw;
+    height: 40vh;
+}
+.button4 {
+    color: white;
+    background-color: blueviolet;
+    font-family: "Roboto";
+    font-size: 14px;
+    width: 80px;
+    height: 32px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.button1{
+    color: white;
+    background-color:aquamarine;
+    font-family: "Roboto";
+    font-size: 14px;
+    width: 80px;
+    height: 32px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}.button2{
+    color: white;
+    background-color:goldenrod;
+    font-family: "Roboto";
+    font-size: 14px;
+    width: 80px;
+    height: 32px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.button3{
+    color: white;
+    background-color:violet;
+    font-family: "Roboto";
+    font-size: 14px;
+    width: 80px;
+    height: 32px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.seasons_image {
+    width: 660px;
+    height: 350px;
+}
+
+button {
+    margin: 10px;
+}
